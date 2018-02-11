@@ -1,0 +1,19 @@
+{
+  "name": "javascriptfeed-sources",
+  "version": "1.0.0",
+  "description": "All the best JavaScript articles and tutorials from around the web in one place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "feed",
+    "articles",
+    "rss",
+    "news",
+    "aggregator"
+  ],
+  "author": "Trey Huffine",
+  "license": "ISC"
+}
