@@ -69,6 +69,10 @@ sources.mediumCustomPublications = [
     url: 'https://code-cartoons.com',
     id: 'code-cartoons.com',
   },
+  {
+    url: 'https://itnext.io',
+    id: 'itnext.io',
+  }
 ];
 
 sources.webFeeds = [
