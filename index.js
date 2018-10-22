@@ -72,7 +72,7 @@ sources.mediumCustomPublications = [
   {
     url: 'https://itnext.io',
     id: 'itnext.io',
-  }
+  },
 ];
 
 sources.webFeeds = [
