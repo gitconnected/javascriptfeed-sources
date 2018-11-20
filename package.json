@@ -1,6 +1,6 @@
 {
   "name": "javascriptfeed-sources",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "All the best JavaScript articles and tutorials from around the web in one place.",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,9 @@
   ],
   "author": "Trey Huffine",
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/gitconnected/javascriptfeed-sources.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitconnected/javascriptfeed-sources.git"
   },
   "homepage": "https://javascriptfeed.com",
   "bugs": "https://github.com/gitconnected/javascriptfeed-sources/issues"
