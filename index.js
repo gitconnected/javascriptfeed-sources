@@ -209,6 +209,7 @@ sources.mediumUsers = [
   '@sachagreif',
   '@addyosmani',
   '@dan_abramov',
+  '@ehmicky'
 ];
 
 module.exports = sources;
