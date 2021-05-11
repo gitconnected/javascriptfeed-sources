@@ -12,6 +12,16 @@ sources.mediumCustomPublications = [
     twitter: 'gitconnected',
   },
   {
+    url: 'https://javascript.plainenglish.io',
+    id: 'javascript.plainenglish.io',
+    twitter: 'JS_PlainEnglish',
+  },
+  {
+    url: 'https://betterprogramming.pub',
+    id: 'betterprogramming.pub',
+    twitter: 'BttrProgramming',
+  },
+  {
     url: 'https://medium.freecodecamp.com',
     id: 'medium.freecodecamp.com',
     twitter: 'freeCodeCamp',

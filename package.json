@@ -1,6 +1,6 @@
 {
   "name": "javascriptfeed-sources",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "All the best JavaScript articles and tutorials from around the web in one place.",
   "main": "index.js",
   "scripts": {
